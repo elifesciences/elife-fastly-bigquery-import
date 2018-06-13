@@ -1,4 +1,4 @@
 {
-  "DATASET": "demo",
-  "TABLE": "generic_cdn"
+  "DATASET": "production",
+  "TABLE": "all_cdns"
 }
